@@ -33,6 +33,8 @@ They are one of the largest global fund’s transaction networks, connecting a n
 -	Excellent communication and ability to work well in a team
 -	The ability to build new components from the ground up to support functional requirements 
 
+Don’t worry if you don’t have a CV, just send me your LinkedIn profile and we can go from there!
+
 Please email calvin.dickinson@tecknuovo.com if you’d like to talk through the above in more detail.
 
 # Questions:
