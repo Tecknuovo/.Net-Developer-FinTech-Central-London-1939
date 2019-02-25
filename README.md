@@ -23,7 +23,7 @@ They are one of the largest global fund’s transaction networks, connecting a n
 -	Performing code reviews & maintaining a high-quality code base
 -	Challenging existing technology choices
 -	Leading backlog refinement 
--	
+
 # What experience is required?
 
 -	Hands on experience with DDD, CQRS and TDD
